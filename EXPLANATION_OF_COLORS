@@ -1,0 +1,82 @@
+| Package                                | Category     | Reason                 |
+| -------------------------------------- | ------------ | ---------------------- |
+| Microsoft.WindowsStore*                | 🟡 Essential | App Store/dependencies |
+| Microsoft.StorePurchaseApp*            | 🟡 Essential | In-app purchases       |
+| Microsoft.AAD.BrokerPlugin*            | 🟡 Essential | Work/School accounts   |
+| Microsoft.Windows.CloudExperienceHost* | 🟡 Essential | Welcome screen         |
+| Microsoft.Windows.PurchaseDialog*      | 🟡 Essential | Store purchase UI      |
+| Microsoft.SecHealthUI*                 | 🟡 Essential | Security Center        |
+| Microsoft.DesktopAppInstaller*         | 🟡 Essential | Winget/Store apps      |
+| Microsoft.Windows.ShellExperienceHost* | 🟡 Essential | Start Menu/Search      |
+| Microsoft.AccountsControl*             | 🟡 Essential | User accounts          |
+| Microsoft.HEIFImageExtension*          | 🟡 Essential | iPhone photos          |
+| Microsoft.HEVCVideoExtension*          | 🟡 Essential | 4K/H.265 video         |
+| Microsoft.WebpImageExtension*          | 🟡 Essential | Web images             |
+| Microsoft.AV1VideoExtension*           | 🟡 Essential | Next-gen video         |
+| Microsoft.Media.VP9VideoExtensions*    | 🟡 Essential | YouTube VP9            |
+| Microsoft.XboxIdentityProvider*        | 🟡 Essential | MS Account login       |
+| Microsoft.MPEG2VideoExtension*         | 🟡 Essential | DVD playback           |
+
+| Package                             | Category | Reason              |
+| ----------------------------------- | -------- | ------------------- |
+| Microsoft.Windows.Photos*           | 🟢 Keep  | Image viewer        |
+| Microsoft.WindowsNotepad*           | 🟢 Keep  | Text editor         |
+| Microsoft.Paint*                    | 🟢 Keep  | Image editor        |
+| Microsoft.MSPaint*                  | 🟢 Keep  | Legacy Paint        |
+| Microsoft.WindowsCalculator*        | 🟢 Keep  | Calculator          |
+| Microsoft.MicrosoftStickyNotes*     | 🟢 Keep  | Notes               |
+| Microsoft.ScreenSketch*             | 🟢 Keep  | Snip & Sketch       |
+| MicrosoftCorporationII.QuickAssist* | 🟢 Keep  | Remote help         |
+| Microsoft.YourPhone*                | 🟢 Keep  | Phone sync          |
+| Microsoft.Windows.CallingShellApp*  | 🟢 Keep  | Phone calls         |
+| Microsoft.ZuneVideo*                | 🟢 Keep  | Media compatibility |
+| MicrosoftWindows.CrossDevice*       | 🟢 Keep  | Phone sync support  |
+
+| Package                                 | Category  | Reason                 |
+| --------------------------------------- | --------- | ---------------------- |
+| Netflix                                 | 🔴 Remove | Web better             |
+| aimgr                                   | 🔴 Remove | AI bloat               |
+| Clipchamp                               | 🔴 Remove | Web editing            |
+| Disney                                  | 🔴 Remove | Streaming web          |
+| Facebook                                | 🔴 Remove | Social web             |
+| Instagram                               | 🔴 Remove | Social web             |
+| TikTok                                  | 🔴 Remove | Social web             |
+| CandyCrushSaga                          | 🔴 Remove | Game                   |
+| Microsoft.BingFinance*                  | 🔴 Remove | Tracking               |
+| Microsoft.BingNews*                     | 🔴 Remove | Tracking               |
+| Microsoft.BingSearch*                   | 🔴 Remove | Tracking               |
+| Microsoft.BingWeather*                  | 🔴 Remove | Tracking               |
+| Microsoft.Copilot*                      | 🔴 Remove | AI promo               |
+| Microsoft.GetHelp*                      | 🔴 Remove | Support bloat          |
+| Microsoft.Getstarted*                   | 🔴 Remove | Onboarding bloat       |
+| Microsoft.M365Companions*               | 🔴 Remove | Office promo           |
+| Microsoft.Microsoft3DViewer*            | 🔴 Remove | Niche tool             |
+| Microsoft.MicrosoftOfficeHub*           | 🔴 Remove | Office promo           |
+| Microsoft.MicrosoftSolitaireCollection* | 🔴 Remove | Game                   |
+| Microsoft.MixedReality.Portal*          | 🔴 Remove | VR niche               |
+| Microsoft.OneDrive*                     | 🔴 Remove | Cloud optional         |
+| Microsoft.PeopleExperienceHost*         | 🔴 Remove | Contacts bloat         |
+| Microsoft.PCManager*                    | 🔴 Remove | Fake optimizer         |
+| Microsoft.PowerAutomateDesktop*         | 🔴 Remove | Automation niche       |
+| Microsoft.SkypeApp*                     | 🔴 Remove | Desktop better         |
+| Microsoft.StartExperiencesApp*          | 🔴 Remove | News tracking          |
+| Microsoft.Todos*                        | 🔴 Remove | Web To Do              |
+| Microsoft.WidgetsPlatformRuntime*       | 🔴 Remove | Widget tracking        |
+| Microsoft.Windows.AIHub*                | 🔴 Remove | AI bloat               |
+| Microsoft.Windows.DevHome*              | 🔴 Remove | Developer niche        |
+| Microsoft.Windows.Recall*               | 🔴 Remove | Privacy risk           |
+| Microsoft.WindowsFeedbackHub*           | 🔴 Remove | Feedback optional      |
+| Microsoft.WindowsMaps*                  | 🔴 Remove | Web maps               |
+| Microsoft.WindowsTerminal*              | 🔴 Remove | CMD enough             |
+| Microsoft.ZuneMusic*                    | 🔴 Remove | Music optional         |
+| Microsoft.ZuneVideo*                    | 🔴 Remove | Media optional         |
+| MicrosoftCorporationII.MicrosoftFamily* | 🔴 Remove | Family sharing         |
+| MicrosoftWindows.Client.WebExperience*  | 🔴 Remove | News/Widgets           |
+| microsoft.windowscommunicationsapps*    | 🔴 Remove | Mail/Calendar          |
+| Microsoft.Xbox.TCUI*                    | 🔴 Remove | Xbox bloat             |
+| Microsoft.XboxGameCallableUI*           | 🔴 Remove | Xbox bloat             |
+| Microsoft.XboxGamingApp*                | 🔴 Remove | Xbox web               |
+| Microsoft.XboxGamingOverlay*            | 🔴 Remove | Xbox overlay           |
+| Microsoft.XboxSpeechToTextOverlay*      | 🔴 Remove | Xbox STT               |
+| SpotifyAB.SpotifyMusic*                 | 🔴 Remove | Desktop better         |
+| Microsoft.Windows.NarratorQuickStart*   | 🔴 Remove | Accessibility optional |
